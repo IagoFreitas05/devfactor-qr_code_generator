@@ -1,0 +1,19 @@
+{
+    "name": "devfactor/projects",
+    "description": "Plataforma de eventos esportivos Epona Sports",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "devfactor",
+        "email": "iago.freitas@devfactor.com.br",
+        "role": "developer",
+        "homepage": "https://devfactor.com.br"
+      }
+    ],
+    
+    "require": {
+        "php": "^7.2",
+      "chillerlan/php-qrcode": "dev-master"
+    }
+  }
